@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
+Game of Life made with ReactJs.
+
+<img src="demo.png" width="360" height="360">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
